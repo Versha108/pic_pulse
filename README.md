@@ -55,7 +55,7 @@ After setup, you can:
 ---
 
 ## ⭐ Contribute
-Pull requests and feedback are welcome!
-Feel free to open an issue to suggest features or report bugs.
+- Pull requests and feedback are welcome!
+- Feel free to open an issue to suggest features or report bugs.
 
 
